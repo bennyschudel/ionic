@@ -37,7 +37,7 @@ import { Platform } from '../../platform/platform';
  *   constructor() { }
  *
  *   stopSliding() {
- *     this.list.enableSlidingItems(false);
+ *     this.list.sliding = false;
  *   }
  * }
  * ```
